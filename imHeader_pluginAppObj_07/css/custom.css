@@ -1,0 +1,27 @@
+#imHeader_pluginAppObj_07 .cd-headline {
+	display: block;
+	font-family: 'Nexa Rust Sans Black';
+	font-size: 18px;
+	line-height: 26px;
+	color: #FFFFFF;
+	font-style: normal;
+	font-weight: normal;
+}
+
+#imHeader_pluginAppObj_07 .cd-headline b,
+#imHeader_pluginAppObj_07 .cd-headline i,
+#imHeader_pluginAppObj_07 .cd-headline em {
+	
+	font-family: 'Nexa Rust Sans Black';
+	font-size: 18px;
+	line-height: 26px;
+	color: #FFFFFF;
+	font-style: normal !important;
+	font-weight: normal;
+}
+
+/* Loading bar color */
+#imHeader_pluginAppObj_07 .cd-headline.loading-bar .cd-words-wrapper::after {
+	background-color: #FFFFFF;
+}
+
